@@ -80,6 +80,4 @@ This writes:
 
 If you use this repository, please cite the associated paper. Bibliographic details can be added here once the final citation is available.
 
-## License
 
-Add your preferred license information here.
